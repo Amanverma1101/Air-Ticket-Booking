@@ -8,8 +8,8 @@ html{
     background-color: rgba(255, 0, 200, 0.041);
 }
 #preloader{
-    background: rgb(240, 240, 240) url(loader.gif) no-repeat center;
-    background-size: 15% ;
+    background: rgb(84, 132, 235) url('loader.gif') no-repeat center;
+    background-size: 40% ;
     height: 100vh;
     width: 100vw;
     position: fixed;
