@@ -159,7 +159,7 @@
     }
     #home {
         padding: 0px;
-        height: 644px;
+        height: 47rem;
     }
     #home::before{
         background: url('travelling.jpg') no-repeat center center/cover;
