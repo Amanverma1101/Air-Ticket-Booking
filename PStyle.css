@@ -7,6 +7,14 @@ html{
     scroll-behavior: smooth;
     background-color: rgba(255, 0, 200, 0.041);
 }
+#preloader{
+    background: rgb(240, 240, 240) url(loader.gif) no-repeat center;
+    background-size: 15% ;
+    height: 100vh;
+    width: 100vw;
+    position: fixed;
+    z-index: 100;
+}
 #navbar{
     display: flex;
     position: relative;
@@ -277,3 +285,5 @@ footer{
     display: block;
     justify-content: center;
 }
+
+
